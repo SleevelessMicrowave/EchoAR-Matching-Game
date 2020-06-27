@@ -9,6 +9,9 @@ TagManager:
   - Skyscraper
   - Monkey
   - Cow
+  - car
+  - goat
+  - building
   layers:
   - Default
   - TransparentFX
