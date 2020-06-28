@@ -12,6 +12,13 @@ TagManager:
   - car
   - goat
   - building
+  - 0
+  - 3
+  - 5
+  - 4
+  - 7
+  - 6
+  - x
   layers:
   - Default
   - TransparentFX
